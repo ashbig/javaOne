@@ -1,0 +1,22 @@
+Script started on Wed 04 Dec 2013 02:47:54 AM EST
+abigdeli@ice3:~/unit32$ Se[K[Kjava SeasonTest
+12/16 is in Winter.
+1/30 is in Winter.
+3/15 is in Winter.
+3/16 is in Spring.
+5/30 is in Spring.
+6/15 is in Spring.
+6/16 is inSummer.
+8/30 is in Summer.
+9/15 is in Summer.
+9/16 is in Fall.
+10/30 is in Fall.
+12/15 is in Fall.
+15/3 is an impossible date.
+11/31 is an impossible date.
+2/29 is an impossible date.
+5/88 is an impossible date.
+abigdeli@ice3:~/unit32$ exit
+exit
+
+Script done on Wed 04 Dec 2013 02:48:03 AM EST

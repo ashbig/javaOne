@@ -1,0 +1,31 @@
+Script started on Mon 04 Nov 2013 02:19:43 AM EST
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 78
+Looks good for...
+Swimming
+Tennis
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 74
+Looks good for...
+Tennis
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 70
+Looks good for...
+Tennis
+Soccer
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 32
+Looks good for...
+Skiing
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 6
+Looks good for...
+Checkers
+abigdeli@ice3:~/unit22$ java Temperature
+OK, mate, what's the Fahrenheit temperature outside? 50
+Looks good for...
+Soccer
+abigdeli@ice3:~/unit22$ exit
+exit
+
+Script done on Mon 04 Nov 2013 02:20:45 AM EST

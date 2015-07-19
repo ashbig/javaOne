@@ -1,0 +1,38 @@
+Script started on Mon 04 Nov 2013 02:11:11 AM EST
+abigdeli@ice3:~/unit22$ java Ca[Kharity
+Enter the amount of contribution: 1000.00
+Thank you benefactor!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 500.00
+Thank you patron!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 999.99
+Thank you patron!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 15.00
+Thank you friend!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 499.99
+Thank you supporter!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 2200.00
+Thank you benefactor!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 100.00
+Thank you supporter!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 99.99
+Thank you friend!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 75.33
+Thank you friend!
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: -17.30
+We're sorry. We only accept donations.
+abigdeli@ice3:~/unit22$ java Charity
+Enter the amount of contribution: 600.22
+Thank you patron!
+abigdeli@ice3:~/unit22$ exit
+exit
+
+Script done on Mon 04 Nov 2013 02:13:13 AM EST

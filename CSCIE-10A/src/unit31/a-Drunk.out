@@ -1,0 +1,71 @@
+Script started on Mon 18 Nov 2013 03:35:25 PM EST
+abigdeli@ice3:~/unit31$ java Drunk
+Here we go again...time for a walk!
+Took 19 steps, and
+Landed in HOME
+
+Here we go again...time for a walk!
+Took 77 steps, and
+Landed in HOME
+
+Here we go again...time for a walk!
+Took 15 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 31 steps, and
+Landed in HOME
+
+Here we go again...time for a walk!
+Took 11 steps, and
+Landed in HOME
+
+Average # of steps equals 30.6
+abigdeli@ice3:~/unit31$ java Drunk
+Here we go again...time for a walk!
+Took 21 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 15 steps, and
+Landed in HOME
+
+Here we go again...time for a walk!
+Took 11 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 21 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 11 steps, and
+Landed in JAIL
+
+Average # of steps equals 15.8
+abigdeli@ice3:~/unit31$ java Drunk
+Here we go again...time for a walk!
+Took 7 steps, and
+Landed in HOME
+
+Here we go again...time for a walk!
+Took 77 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 5 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 17 steps, and
+Landed in JAIL
+
+Here we go again...time for a walk!
+Took 5 steps, and
+Landed in HOME
+
+Average # of steps equals 22.2
+abigdeli@ice3:~/unit31$ exit
+exit
+
+Script done on Mon 18 Nov 2013 03:35:38 PM EST

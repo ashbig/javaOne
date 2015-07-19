@@ -1,0 +1,52 @@
+Script started on Mon 18 Nov 2013 03:25:57 PM EST
+abigdeli@ice3:~/unit31$ java Licensec License.java License[K[KCraps.[K[K[K[K[K[Kjava Craps
+Computer rolls a 1 and a 5, for a total of 6.
+6 is now the established POINT.
+Computer rolls a 3 and a 2, for a total of 5.
+Computer rolls a 5 and a 6, for a total of 11.
+Computer rolls a 3 and a 4, for a total of 7.
+YOU LOSE
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 3 and a 1, for a total of 4.
+4 is now the established POINT.
+Computer rolls a 6 and a 1, for a total of 7.
+YOU LOSE
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 6 and a 3, for a total of 9.
+9 is now the established POINT.
+Computer rolls a 4 and a 2, for a total of 6.
+Computer rolls a 4 and a 3, for a total of 7.
+YOU LOSE
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 6 and a 4, for a total of 10.
+10 is now the established POINT.
+Computer rolls a 2 and a 3, for a total of 5.
+Computer rolls a 1 and a 6, for a total of 7.
+YOU LOSE
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 5 and a 5, for a total of 10.
+10 is now the established POINT.
+Computer rolls a 2 and a 4, for a total of 6.
+Computer rolls a 1 and a 2, for a total of 3.
+Computer rolls a 6 and a 5, for a total of 11.
+Computer rolls a 3 and a 4, for a total of 7.
+YOU LOSE
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 3 and a 2, for a total of 5.
+5 is now the established POINT.
+Computer rolls a 2 and a 6, for a total of 8.
+Computer rolls a 3 and a 2, for a total of 5.
+YOU WIN!
+abigdeli@ice3:~/unit31$ java Craps
+Computer rolls a 1 and a 5, for a total of 6.
+6 is now the established POINT.
+Computer rolls a 3 and a 5, for a total of 8.
+Computer rolls a 4 and a 5, for a total of 9.
+Computer rolls a 5 and a 4, for a total of 9.
+Computer rolls a 2 and a 1, for a total of 3.
+Computer rolls a 5 and a 1, for a total of 6.
+YOU WIN!
+abigdeli@ice3:~/unit31$ exit
+exit
+
+Script done on Mon 18 Nov 2013 03:26:29 PM EST

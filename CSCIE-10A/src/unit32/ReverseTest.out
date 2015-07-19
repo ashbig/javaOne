@@ -1,0 +1,11 @@
+Script started on Wed 04 Dec 2013 02:57:34 AM EST
+abigdeli@ice3:~/unit32$ java ReverseTre[K[K[Ktest[K[K[K[KTest
+Enter a statement to be reversed: Uncle Foobar
+rabooF elcnU
+abigdeli@ice3:~/unit32$ java ReverseTest
+Enter a statement to be reversed: How are you
+uoy era woH
+abigdeli@ice3:~/unit32$ exit
+exit
+
+Script done on Wed 04 Dec 2013 02:57:58 AM EST

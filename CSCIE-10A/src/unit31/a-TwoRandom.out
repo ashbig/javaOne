@@ -1,0 +1,17 @@
+Script started on Mon 18 Nov 2013 03:28:15 PM EST
+abigdeli@ice3:~/unit31$ java TwoRandom
+My random number is 7 and your random number is 5!
+You win!
+abigdeli@ice3:~/unit31$ java TwoRandom
+My random number is 6 and your random number is 4!
+You win!
+abigdeli@ice3:~/unit31$ java TwoRandom
+My random number is 6 and your random number is 5!
+You lose!
+abigdeli@ice3:~/unit31$ java TwoRandom
+My random number is 1 and your random number is 3!
+You win!
+abigdeli@ice3:~/unit31$ exit
+exit
+
+Script done on Mon 18 Nov 2013 03:28:27 PM EST

@@ -1,0 +1,22 @@
+Script started on Wed 04 Dec 2013 04:47:03 AM EST
+abigdeli@ice3:~/unit32$ java Roman
+Enter Roman numerals: lxxxvii
+Arabic form: 87
+abigdeli@ice3:~/unit32$ java Roman
+Enter Roman numerals: ccxix
+Arabic form: 219
+abigdeli@ice3:~/unit32$ java Roman
+Enter Roman numerals: mcccliv
+Arabic form: 1354
+abigdeli@ice3:~/unit32$ java Roman
+Enter Roman numerals: MMDCLXXIII
+Arabic form: 2673
+abigdeli@ice3:~/unit32$ java Roman
+Enter Roman numerals: MCDLXXVI
+Arabic form: 1476
+abigdeli@ice3:~/unit32$ EXIT
+bash: EXIT: command not found
+abigdeli@ice3:~/unit32$ exit
+exit
+
+Script done on Wed 04 Dec 2013 04:48:12 AM EST

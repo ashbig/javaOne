@@ -1,0 +1,17 @@
+Script started on Mon 16 Dec 2013 02:18:31 PM EST
+abigdeli@ice4:~/unit4$ java Arrayint[K[K[KIntersect
+The first array is: [18, 7, 4, 24, 11]
+The second array is: [18, 8, 9, 22, 13]
+It is true that these arrays contain common elements.
+
+The first array is: [18, 7, 4]
+The second array is: [8, 8, 22, 18]
+It is true that these arrays contain common elements.
+
+The first array is: [18, 7, 4, 24, 11]
+The second array is: [1, 8, 10, 22, 13]
+It is false that these arrays contain common elements.
+abigdeli@ice4:~/unit4$ exit
+exit
+
+Script done on Mon 16 Dec 2013 02:18:41 PM EST

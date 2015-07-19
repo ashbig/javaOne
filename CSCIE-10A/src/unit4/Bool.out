@@ -1,0 +1,18 @@
+Script started on Mon 16 Dec 2013 01:47:16 PM EST
+abigdeli@ice4:~/unit4$ java Bool
+[false, true, true, true]
+There are 3 consecutive true values.
+They are located at index 1 and 3.
+
+[true]
+There are 1 consecutive true values.
+They are located at index 0 and 0.
+
+[true, true, true, true, false]
+There are 4 consecutive true values.
+They are located at index 0 and 3.
+
+abigdeli@ice4:~/unit4$ exit
+exit
+
+Script done on Mon 16 Dec 2013 01:47:23 PM EST

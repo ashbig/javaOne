@@ -1,0 +1,8 @@
+Script started on Mon 04 Nov 2013 02:15:59 AM EST
+abigdeli@ice3:~/unit22$ java Powers
+Enter how many powers of 2 you would like: 10
+2 4 8 16 32 64 128 256 512 1024 
+abigdeli@ice3:~/unit22$ exit
+exit
+
+Script done on Mon 04 Nov 2013 02:16:06 AM EST

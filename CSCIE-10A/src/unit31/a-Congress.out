@@ -1,0 +1,35 @@
+Script started on Mon 18 Nov 2013 03:33:13 PM EST
+abigdeli@ice3:~/unit31$ exitjava TwoRandom[K[K[K[K[K[K[K[K[K[K[K[K[K[Kjava Congress
+
+CONGRESS ELIBILITY
+
+
+Enter age of candidate: 37
+Enter year of U.S Citizenship: 3
+
+The candidate is NOT eligible for election to either the House of Representatives or the Senate.
+
+abigdeli@ice3:~/unit31$ java Congress
+
+CONGRESS ELIBILITY
+
+
+Enter age of candidate: 47
+Enter year of U.S Citizenship: 8
+
+The candidate is eligible for election to the House of Representatives but is NOT eligible for election to the Senate.
+
+abigdeli@ice3:~/unit31$ java Congress
+
+CONGRESS ELIBILITY
+
+
+Enter age of candidate: 35
+Enter year of U.S Citizenship: 25
+
+The candidate is eligible for election to both the House of Representatives and the Senate.
+
+abigdeli@ice3:~/unit31$ exit
+exit
+
+Script done on Mon 18 Nov 2013 03:33:52 PM EST

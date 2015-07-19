@@ -1,0 +1,29 @@
+Script started on Mon 18 Nov 2013 04:41:16 PM EST
+abigdeli@ice3:~/unit31$ java MagicSquare
+Enter 9 digits to see if they form a magic square! Press enter after each digit!
+8
+1
+6
+3
+5
+7
+4
+9
+2
+You made a magic square!
+abigdeli@ice3:~/unit31$ java MagicSquare
+Enter 9 digits to see if they form a magic square! Press enter after each digit!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Focus! That's not a magic square!
+abigdeli@ice3:~/unit31$ exit
+exit
+
+Script done on Mon 18 Nov 2013 04:41:58 PM EST

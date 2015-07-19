@@ -1,0 +1,8 @@
+Script started on Wed 04 Dec 2013 03:11:28 AM EST
+abigdeli@ice3:~/unit32$ java RationalTest
+It is true to say 8/16 is less than 2/3.
+It is false to say 2/3 is less than 8/16.
+abigdeli@ice3:~/unit32$ exit
+exit
+
+Script done on Wed 04 Dec 2013 03:11:36 AM EST

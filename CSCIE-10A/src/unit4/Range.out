@@ -1,0 +1,10 @@
+Script started on Mon 16 Dec 2013 02:22:16 PM EST
+abigdeli@ice4:~/unit4$ java Range
+The given array is: [14, 1, 7, 22, 17, 36, 7, -43, 5]
+There are 5 elements that fall between 4 and 17.
+The given array is: [1, 1, 2, 2, 8, 8, 14, 14, 15, 15]
+There are 6 elements that fall between 2 and 14.
+abigdeli@ice4:~/unit4$ exit
+exit
+
+Script done on Mon 16 Dec 2013 02:22:26 PM EST
